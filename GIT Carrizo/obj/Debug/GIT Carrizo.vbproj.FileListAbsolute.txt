@@ -1,0 +1,13 @@
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\bin\Debug\GIT Carrizo.exe.config
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\bin\Debug\GIT Carrizo.exe
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\bin\Debug\GIT Carrizo.pdb
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\bin\Debug\GIT Carrizo.xml
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\obj\Debug\GIT Carrizo.vbproj.AssemblyReference.cache
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\obj\Debug\GIT_Carrizo.Form1.resources
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\obj\Debug\GIT_Carrizo.Form2.resources
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\obj\Debug\GIT_Carrizo.Resources.resources
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\obj\Debug\GIT Carrizo.vbproj.GenerateResource.cache
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\obj\Debug\GIT Carrizo.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\obj\Debug\GIT Carrizo.exe
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\obj\Debug\GIT Carrizo.xml
+C:\Users\Alumno419\Desktop\GIT Carrizo\GIT Carrizo\obj\Debug\GIT Carrizo.pdb
